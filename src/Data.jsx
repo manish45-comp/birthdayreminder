@@ -32,28 +32,28 @@ const peoples = [
     fullName: "Steve Rogers ",
     image:
       "https://i.pinimg.com/1200x/36/01/b3/3601b349f9f4b95528d7a85104c5ff15.jpg",
-    Dob: "170+",
+    Dob: "50",
   },
   {
     id: 6,
-    fullName: "Steve Rogers ",
+    fullName: "Wonder Woman",
     image:
-      "https://i.pinimg.com/1200x/36/01/b3/3601b349f9f4b95528d7a85104c5ff15.jpg",
-    Dob: "170+",
+      "https://media.vanityfair.com/photos/5fe582c78465e5433d911a0a/1:1/w_1014,h_1014,c_limit/wonder-woman-mid-credits.jpg",
+    Dob: "30",
   },
   {
-    id: 5,
-    fullName: "Steve Rogers ",
+    id: 7,
+    fullName: "Natasha Romanoff",
     image:
-      "https://i.pinimg.com/1200x/36/01/b3/3601b349f9f4b95528d7a85104c5ff15.jpg",
-    Dob: "170+",
+      "https://i.pinimg.com/1200x/12/fc/e8/12fce8d999612d0a77339bb0de6d7a53.jpg",
+    Dob: "34",
   },
   {
-    id: 6,
-    fullName: "Steve Rogers ",
+    id: 8,
+    fullName: "Wanda Maximoff",
     image:
-      "https://i.pinimg.com/1200x/36/01/b3/3601b349f9f4b95528d7a85104c5ff15.jpg",
-    Dob: "170+",
+      "https://upload.wikimedia.org/wikipedia/en/d/d9/Elizabeth_Olsen_as_Wanda_Maximoff.jpg",
+    Dob: "17",
   },
 ];
 
