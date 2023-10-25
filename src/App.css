@@ -72,7 +72,7 @@
   background-color: var(--color-dark-primary);
   border: none;
   color: var(--color-text-icon);
-  position: static;
+  position: sticky;
   bottom: 0 !important;
   z-index: 2;
   font-size: 1em;
